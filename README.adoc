@@ -2,12 +2,4 @@
 
 In diesem Repository befinden sich die zugehörigen Dateien für mein YouTube Video!
 
-# Hallo
-
-> Programmieren ist schwer.
-
-```java
-
-public void
-
-```
+https://www.youtube.com/watch?v=y4CkXnRPzdI[Youtube Video]
