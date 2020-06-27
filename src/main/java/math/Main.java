@@ -14,7 +14,7 @@ public class Main {
         double result = Sum.of(1, 2, 3);
         // 3rd root of 8
         double root = NthRoot.of(3, 8);
-
+        // comment
         // product of 1, 2, 3
         result = Product.of(1, 2, 3);
 
